@@ -6,9 +6,13 @@ Over 9 years of experience and skilled in front-end development with a strong un
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Redux, Next.js, Vue.js, Jest
-- **Styling:** Tailwind CSS, styled-components, SCSS, CSS
+- **Styling & Animation:** Tailwind CSS, styled-components, SCSS, CSS, Framer Motion,
 - **Tools & Platforms:** Git, GitHub, React DevTools, Storybook
 - **Interests:** Testing, Profiling & Performance, Open Source, Security
+
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in front-end development, specifically in roles that leverage my experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest front-end tech trends and advancing my coding skills.
 
 ## Connect with Me 📬
 - 🐦 [X-Twitter](https://x.com/KAChamikaMadus1)
