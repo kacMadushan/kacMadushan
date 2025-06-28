@@ -4,8 +4,9 @@
 Over 9 years of experience and skilled in front-end development with a strong understanding of core web technologies like HTML, CSS, and JavaScript, TypeScript along with proficiency in popular frameworks and libraries like React, Redux, Next.js, and design, develop, and maintain complex and responsive user interfaces. Proven ability to work independently or as part of a team.
 
 ## Technical Skills 🛠️
----
-- **Languages:** JavaScript, TypeScript
+- **Languages:** ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto)
+, ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto)
+
 - **Frameworks & Libraries:** React, Redux, Next.js, Vue.js, Jest
 - **Styling & Animation:** Tailwind CSS, styled-components, SCSS, CSS, Framer Motion,
 - **Tools & Platforms:** Git, GitHub, React DevTools, Storybook
