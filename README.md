@@ -1,21 +1,30 @@
-👋 Hi, I'm Chamika Madushan! I’m the Senior Frontend Engineer at **Racing and Sports**
+# Hellooo! My Name is Chamika 👋
+🌲 I'm a Senior Frontend Engineer on the **Racing and Sports**<br>
+👀 I’m interested in **web and mobile programming**<br>
+🌱 I'm currently learning **Svelte**<br>
+🤝 I’m looking to collaborate on **Backend programmers**
 
-## About Me
-Over 9 years of experience and skilled in front-end development with a strong understanding of core web technologies like HTML, CSS, and JavaScript, TypeScript along with proficiency in popular frameworks and libraries like React, Redux, Next.js, and design, develop, and maintain complex and responsive user interfaces. Proven ability to work independently or as part of a team.
+---
 
-## Technical Skills 🛠️
-- **Languages:** ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto)
-, ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto)
-
-- **Frameworks & Libraries:** React, Redux, Next.js, Vue.js, Jest
-- **Styling & Animation:** Tailwind CSS, styled-components, SCSS, CSS, Framer Motion,
-- **Tools & Platforms:** Git, GitHub, React DevTools, Storybook
-- **Interests:** Testing, Profiling & Performance, Open Source, Security
-
-## Professional Goals 🚀
-- **Career Development:** Focused on furthering my career in front-end development, specifically in roles that leverage my experience and technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest front-end tech trends and advancing my coding skills.
-
-## Connect with Me 📬
+# Connect with Me 📬
 - 🐦 [X-Twitter](https://x.com/KAChamikaMadus1)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chamika-madushan/)
+
+---
+
+# 💻 Tech Stack:
+### 👨‍💻 Languages
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto)
+
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue JS](https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%23fff&color=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/nuxt-%2300DC82?style=for-the-badge&logo=nuxt&logoColor=%23fff&color=%2300DC82)
+
+### 🗃️ Databases  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Version Control  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
