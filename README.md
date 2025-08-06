@@ -1,4 +1,4 @@
-👋 Hi, I'm Madushan R I’m the Senior Frontend Engineer
+👋 Hi, I'm Chamika Madushan I’m the Senior Frontend Engineer
 
 ## About Me
 Over 9 years of experience and skilled in front-end development with a strong understanding of core web technologies like HTML, CSS, and JavaScript, TypeScript along with proficiency in popular frameworks and libraries like React, Redux, Next.js, and design, develop, and maintain complex and responsive user interfaces. Proven ability to work independently or as part of a team.
